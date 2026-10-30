@@ -23,7 +23,7 @@ export default function Footer() {
             <a href="https://github.com/VenomDevX" target="_blank" rel="noopener noreferrer" className="p-3 bg-[var(--overlay)] hover:bg-[var(--overlay-hover)] rounded-full text-[var(--text-muted)] hover:text-[var(--text-main)] transition-colors" title="GitHub">
               <Github className="w-5 h-5" />
             </a>
-            <a href="https://www.linkedin.com/in/parth-sharma-b96661245/" target="_blank" rel="noopener noreferrer" className="p-3 bg-[var(--overlay)] hover:bg-[var(--overlay-hover)] rounded-full text-[var(--text-muted)] hover:text-[#0a66c2] transition-colors" title="LinkedIn">
+            <a href="https://www.linkedin.com/in/parthsharma-venomdevx/" target="_blank" rel="noopener noreferrer" className="p-3 bg-[var(--overlay)] hover:bg-[var(--overlay-hover)] rounded-full text-[var(--text-muted)] hover:text-[#0a66c2] transition-colors" title="LinkedIn">
               <Linkedin className="w-5 h-5" />
             </a>
             <a href="https://www.venomdevx.dev" target="_blank" rel="noopener noreferrer" className="p-3 bg-[var(--overlay)] hover:bg-[var(--overlay-hover)] rounded-full text-[var(--text-muted)] hover:text-var(--color-delhi-emerald) transition-colors" title="Portfolio">

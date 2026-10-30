@@ -71,7 +71,7 @@ Make sure you have [Node.js](https://nodejs.org/) (v18+) and npm/yarn installed.
 * Full Stack Developer & UI/UX Enthusiast
 
 - GitHub: [@VenomDevX](https://github.com/VenomDevX)
-- LinkedIn: [Parth Sharma](https://www.linkedin.com/in/parth-sharma-b96661245/)
+- LinkedIn: [Parth Sharma](https://www.linkedin.com/in/parthsharma-venomdevx/)
 - Portfolio: [venomparth.dev](https://venomparth.dev)
 
 ## 📄 License
